@@ -1,0 +1,58 @@
+# Site
+repository: garethtalty/curriculum-vitae
+favicon: images/favicon.ico
+
+# Personal info
+name: Gareth Talty
+title: Senior Software Engineer
+email: garethtalty@gmail.com
+website: garethtalty.github.io
+
+# Social links
+twitter_username: gtalty
+github_username: garethtalty
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: garethtalty
+linkedin_username: garethtalty
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: |
+  Hi, my name's Gareth and I'm a Software Engineer.
+
+  I am most skilled in: <mark>JavaScript</mark> and <mark>React</mark>.
+
+  As a keen technologist and agile advocate, I have built enterprise software across industries and played an active role in growing an early stage start-up into a well established scale-up. The perfect role is one that encourages strong collaboration with others to create scalable and robust software.
+
+  I enjoy what I do, and take real pride in building things that look great and work well.
+
+# Projects Section
+projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# More Section
+more_title: A Little More About Me
+more_content: |
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Cycling
+   - Travel
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+plugins:
+  - jekyll-seo-tag
