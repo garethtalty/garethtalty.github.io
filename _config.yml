@@ -52,7 +52,8 @@ more_content: |
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: garethtalty/modern-resume-theme@certifications
+# remote_theme: sproogen/resume-theme
 
 plugins:
   - jekyll-seo-tag

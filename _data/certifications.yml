@@ -1,0 +1,31 @@
+# certification template
+- columns: 4
+  name: Professional Scrum with Kanban (PSK I)
+  icon: award
+  link: https://www.scrum.org/certificates/435942
+  image_url: images/certifications/psk.jpg
+  description: | 
+    The Professional Scrum with Kanban (PSK I) certification validates knowledge of how Scrum Teams can use Scrum with Kanban to support value creation, measurement, and delivery.  
+    Date Awarded: 30 July 2019
+
+- columns: 4
+  name: Scrum Alliance - Certified ScrumMaster (CSM)
+  icon: award
+  link: https://www.scrumalliance.org
+  image_url: images/certifications/scrum-alliance.jpg
+  description: | # this will include new lines to allow paragraphs
+    Date Awarded: 2016  
+    Date Expired: 2018  
+  
+- columns: 4
+  name: Grade 7 Trumpet from Trinity College London & Oxford Music
+  icon: award
+  description: | # this will include new lines to allow paragraphs
+    Trinity College London & Oxford Music  
+    Date Awarded: 2003  
+
+- columns: 4
+  name: OCR Level 1, 2, 3
+  icon: award
+  description: | # this will include new lines to allow paragraphs
+    Text Processing (Text & Word Processing, MailMerge)  
