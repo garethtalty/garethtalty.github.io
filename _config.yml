@@ -56,3 +56,5 @@ remote_theme: sproogen/resume-theme
 
 plugins:
   - jekyll-seo-tag
+
+darkmode: true
