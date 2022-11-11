@@ -8,9 +8,9 @@
 
     - Introduction of development best practices: 
 
-    - Linting (<mark>eslint</mark>, <mark>stylelint</mark>) & code formatting (prettier) 
+    - Linting (<mark>eslint</mark>, <mark>stylelint</mark>) & code formatting (<mark>prettier</mark>) 
 
-    - Unit testing (<mark>jest</mark>, <markTesting Library</mark>, 
+    - Unit testing (<mark>jest</mark>, <mark>Testing Library</mark>, 
 
     - Integration & functional (e2e) testing with <mark>Cypress</mark>
 
