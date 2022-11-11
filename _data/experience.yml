@@ -1,8 +1,49 @@
 - layout: left
-  company: Royal Bank of Scotland
+  company: Cureoscity
+  link: https://cureoscity.com
+  job_title: Lead Software Engineer - Frontend
+  dates: February 2021 - Present
+  description: |
+    - Establishing best practices relating to: front-end development, agile delivery, branching strategy, code review, service versioning.
+
+    - Introduction of development best practices: 
+
+    - Linting (<mark>eslint</mark>, <mark>stylelint</mark>) & code formatting (prettier) 
+
+    - Unit testing (<mark>jest</mark>, <markTesting Library</mark>, 
+
+    - Integration & functional (e2e) testing with <mark>Cypress</mark>
+
+    - Development of strategic functionality, primarily with <mark>ReactJS</mark>, <mark>Node.js</mark, <mark>AWS Lambda</mark>
+
+    - Line manager & 1:1 coach for 6 engineers
+
+    - Production release support
+
+    - Production outage escalation and out-of-hours support & resolution
+
+    - Creation of devops tooling:
+      - Internal service dashboard
+      - Internal dev utils (IP whitelisting, ...)
+    
+    - Development of pre-commit hooks for enforcing code quality
+
+    - Introduction of testable <mark>functional programming</mark> patterns
+
+    - Resolution of critical security vulnerabilities identified in PEN Testing
+
+    - Resolved a critical data-scale challenge by implementing module pagination across the Portal
+
+    - Definition of World Class UI and a strategy to achieve it
+
+    - Identified & resolved critical security vulnerabilities in 3rd party dependencies
+
+
+- layout: left
+  company: Royal Bank of Scotland / NatWest
   link: https://www.rbs.com
   job_title: Software Engineer
-  dates: December 2017 - Present
+  dates: December 2017 - February 2021
   description: |
     - Development of front-end apps for high-traffic Commercial & Private Banking customers 
 
